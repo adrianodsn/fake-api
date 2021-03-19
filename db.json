@@ -5,7 +5,7 @@
     "email": "joaosiqueira@gmail.com",
     "cpf": "055.373.570-54",
     "estadoCivil": "Solteiro(a)",
-    "nomeConjugue": ""
+    "nomeConjuge": ""
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "email": "marciosantos@gmail.com",
     "cpf": "303.564.730-58",
     "estadoCivil": "Casado(a)",
-    "nomeConjugue": "Silvana Sporh"
+    "nomeConjuge": "Silvana Sporh"
   }],
   "tiposEstadoCivil": [{
     "nomeEstadoCivil": "Solteiro(a)"
